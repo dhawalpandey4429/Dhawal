@@ -1,0 +1,5 @@
+notice_id,service,status,amount
+BN-101,Electricity,Due,185
+BN-102,Internet,Overdue,92
+BN-103,Mobile,Due,68
+BN-104,Insurance,Due,240

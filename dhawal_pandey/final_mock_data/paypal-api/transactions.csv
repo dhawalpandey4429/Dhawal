@@ -1,0 +1,4 @@
+transaction_id,service,amount,status
+TX-301,Electricity,185,Completed
+TX-302,Mobile,60,Completed
+TX-303,Insurance,240,Completed
